@@ -350,7 +350,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "selen-full.kicad_pro",
+    "filename": "selen_plate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -429,7 +429,7 @@
   },
   "sheets": [
     [
-      "0f810317-6bec-4c15-96b6-e764abcf616e",
+      "6f853127-36d4-4898-ad8f-ff085c9549e9",
       ""
     ]
   ],

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "selen")(type "KiCad")(uri "${KIPRJMOD}/../../selen.pretty")(options "")(descr ""))
+)

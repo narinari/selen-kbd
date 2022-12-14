@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "selen")(type "KiCad")(uri "/home/narinari/dev/src/github.com/narinari/selen-kbd/selen-full/selen.kicad_sym")(options "")(descr ""))
+)

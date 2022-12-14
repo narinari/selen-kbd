@@ -1,0 +1,159 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e8904ee1-0799-4138-87f9-51c8594b1256)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 44.45 59.69) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 09545a4c-b480-479c-a76e-d922b6238b6a)
+    (property "Sheet name" "main" (id 0) (at 44.45 58.9784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "../selen-rev2.kicad_sch" (id 1) (at 44.45 64.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/0fc5e22d-bde5-4018-ae48-094a4c7601eb"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/6164b4f8-e879-498c-8b59-47507bdae118"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/699f95e0-0d93-4340-80fb-667dceb71add"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/9b07cb98-f6ea-4b21-9e91-f51532e257b9"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/e82af670-c478-42c8-8820-7d91ad430572"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/fc9f96db-10be-41bc-9fb2-214e32597842"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/bb4949d6-610d-43ae-9b07-1f422ff5fe33"
+      (reference "D1") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/d5bfb6b5-4c21-4b3f-b561-8171feeb4895"
+      (reference "D2") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/8124599c-b612-4afd-9a1f-3d734a9d23ad"
+      (reference "D3") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/fcdc5250-9b62-4f46-857a-6d1150746f13"
+      (reference "D4") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/186b3429-892d-41ab-8cf2-7c81467c3129"
+      (reference "D5") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/96fd422d-ac5a-4de1-afb5-947df254f6c5"
+      (reference "D6") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/af48208a-2729-4c84-a960-f2989749f4ca"
+      (reference "D7") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/fab4f977-cd3a-48b2-9913-75569f520efb"
+      (reference "D8") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/444b6f27-9cf2-40f5-9e92-3857485acec7"
+      (reference "D9") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/4f6a6cf9-1663-4727-992a-6cb25c52de76"
+      (reference "D10") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/4f885c90-8692-46cb-bc25-14feeb5e86bd"
+      (reference "D11") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/4165f9ac-300f-4ff0-bc34-5fabfb7fa819"
+      (reference "D12") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/0042f32c-d5a5-491b-94c8-9e1d360cf90d"
+      (reference "D13") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/501cf767-1ad7-434e-a3b5-30c7d3a84bbb"
+      (reference "D14") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/c9638932-7413-4a81-995d-aaae256d24f4"
+      (reference "D15") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/a7d3b35c-25cb-4e53-a9a9-85a193449a3c"
+      (reference "D16") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/1335f30f-3a02-4dd9-b643-e92e82d25948"
+      (reference "D17") (unit 1) (value "D") (footprint "selen:D_SOD-123_axial")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/211f771d-e533-4a23-a3fc-91dda249c709"
+      (reference "J1") (unit 1) (value "AudioJack4") (footprint "kbd:MJ-4PP-9")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/ee305186-2691-487e-9667-c1d170e7bf92"
+      (reference "J2") (unit 1) (value "Conn_01x04") (footprint "selen:PinHeader_1x04_P2.54mm_Vertical axial right")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/d660372a-be51-49c6-bbe4-2befbe03c291"
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/27fb664d-fd6c-40c7-9e57-4aba7c482027"
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/4ad255b1-c40d-4f65-9091-13d9a6ba031b"
+      (reference "SW3") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/184d295a-b9a3-4683-84eb-4e4e30893f83"
+      (reference "SW4") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/63c7192b-7260-4780-b877-c09fb0513fd0"
+      (reference "SW5") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/024c3c44-d1eb-4f3a-b16d-53bcf0a460fd"
+      (reference "SW6") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/9bbcc53c-6295-4299-a1ec-0d41fdfde64d"
+      (reference "SW7") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/cd50e516-ba83-4a8c-ab2d-790e178bf3e1"
+      (reference "SW8") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/aa3d6132-b576-49a9-b1bc-cba00d6cf006"
+      (reference "SW9") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/91b81bf9-9d95-47d7-91c1-d00482bafad5"
+      (reference "SW10") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/ceaccbf8-c923-4cbd-b919-c89942b24538"
+      (reference "SW11") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/aeb2df8c-1b0d-49c8-84bd-3f05eb562fe4"
+      (reference "SW12") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/16f7a6a3-680c-4023-b4af-24c7f34e69b0"
+      (reference "SW13") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/2091749c-7c82-4d60-9219-8e46eca53a68"
+      (reference "SW14") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/72ffb2b7-2495-4356-b2c8-0e86d92c6379"
+      (reference "SW15") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/3bbae28e-ce77-424e-b64b-a4ac2f74f861"
+      (reference "SW16") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/75e180a6-6751-4b64-8d44-8bf727d1b06f"
+      (reference "SW17") (unit 1) (value "SW_Push") (footprint "kbd:CherryMX_Choc_Hotswap")
+    )
+    (path "/09545a4c-b480-479c-a76e-d922b6238b6a/acabc4f1-0a5a-4ffd-9c72-bb1f474265ac"
+      (reference "U1") (unit 1) (value "XIAO-RP2040") (footprint "selen:XIAO-MOUDLE14P-2.54-21X17.8MM_SMD_reversible")
+    )
+  )
+)
